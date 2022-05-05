@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-05T13:31:38 IST" name="Default suite" finished-at="2022-05-05T13:34:19 IST" duration-ms="160593">
+    <groups>
+    </groups>
+    <test started-at="2022-05-05T13:31:38 IST" name="Default test" finished-at="2022-05-05T13:34:19 IST" duration-ms="160593">
+      <class name="com.coding.pushpa.VerfingPushPa">
+        <test-method is-config="true" signature="openBrower()[pri:0, instance:com.coding.pushpa.VerfingPushPa@6253c26]" started-at="2022-05-05T13:31:38 IST" name="openBrower" finished-at="2022-05-05T13:31:51 IST" duration-ms="12582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrower -->
+        <test-method signature="imdb()[pri:1, instance:com.coding.pushpa.VerfingPushPa@6253c26]" started-at="2022-05-05T13:31:51 IST" name="imdb" finished-at="2022-05-05T13:33:31 IST" duration-ms="100022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imdb -->
+        <test-method signature="getReleaseDateinIMDB()[pri:2, instance:com.coding.pushpa.VerfingPushPa@6253c26]" started-at="2022-05-05T13:33:31 IST" name="getReleaseDateinIMDB" finished-at="2022-05-05T13:34:11 IST" duration-ms="39555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReleaseDateinIMDB -->
+        <test-method signature="navigateToWIKIPage()[pri:3, instance:com.coding.pushpa.VerfingPushPa@6253c26]" started-at="2022-05-05T13:34:11 IST" name="navigateToWIKIPage" finished-at="2022-05-05T13:34:16 IST" duration-ms="5896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToWIKIPage -->
+        <test-method signature="getReleaseDateAndCout()[pri:4, instance:com.coding.pushpa.VerfingPushPa@6253c26]" started-at="2022-05-05T13:34:16 IST" name="getReleaseDateAndCout" finished-at="2022-05-05T13:34:17 IST" duration-ms="923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReleaseDateAndCout -->
+        <test-method is-config="true" signature="closeBrower()[pri:0, instance:com.coding.pushpa.VerfingPushPa@6253c26]" started-at="2022-05-05T13:34:17 IST" name="closeBrower" finished-at="2022-05-05T13:34:19 IST" duration-ms="1465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+      </class> <!-- com.coding.pushpa.VerfingPushPa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
